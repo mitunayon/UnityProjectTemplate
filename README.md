@@ -9,8 +9,6 @@ or GitHub Desktop. https://desktop.github.com/
 
 If you are new to Git I'd recommend using GitHub Desktop as it's the most simple.
 
-Once installed, 
-
 2. Initialise Git LFS.
 
 If you are using one of the clients above, a popup will appear when you clone the repository.
